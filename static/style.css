@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+.upload-box {
+    margin-bottom: 20px;
+}
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
